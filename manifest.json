@@ -1,4 +1,5 @@
 {
+  "id": "/",
   "name": "Пятёрка — калькулятор оценок",
   "short_name": "Пятёрка",
   "description": "Калькулятор школьных оценок: средний балл и средневзвешенный балл",
@@ -9,6 +10,7 @@
   "background_color": "#FAFAF7",
   "theme_color": "#C0392B",
   "lang": "ru",
+  "categories": ["education", "utilities"],
   "icons": [
     {
       "src": "icon-192.png",
